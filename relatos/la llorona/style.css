@@ -13,8 +13,11 @@ body {
     padding:10%;
     padding-top: 3%;
     background-color: white;
+    font-size: large;
 }
 
 html {
     background-color: black;
+    padding: 5%;
+    padding-top: 1%;
 }

@@ -1,0 +1,39 @@
+html {
+    background-image: url('https://starwalk.space/gallery/images/comet-halley-and-milky-way/1920x1080.jpg');
+    padding: 5%;
+    padding-top: 2%;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 50px;
+}
+
+#contenido {
+    background-color: white;
+    padding: 1%;
+    border-radius: 50px;
+}
+img {
+    float: right;
+    width: 25%;
+    margin: 2%;
+    border-radius: 50px;
+}
+
+#contenido > p {
+    margin:1%;
+}
+
+#contenido > h2 {
+    margin-left:1%;
+}
+
+#segunda-imagen {
+    float: left;
+    width: 32%;
+}
